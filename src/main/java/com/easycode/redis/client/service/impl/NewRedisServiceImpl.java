@@ -1,8 +1,9 @@
 
-package com.albot.kkh.redis.client.service.impl;
+package com.easycode.redis.client.service.impl;
 
-import com.albot.kkh.redis.client.service.NewRedisService;
-import com.albot.kkh.redis.server.Redis;
+import com.easycode.redis.client.service.NewRedisService;
+import com.easycode.redis.server.Redis;
+
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ZSetOperations.TypedTuple;
 

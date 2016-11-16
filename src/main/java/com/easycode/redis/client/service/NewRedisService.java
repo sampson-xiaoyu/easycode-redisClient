@@ -1,4 +1,4 @@
-package com.albot.kkh.redis.client.service;
+package com.easycode.redis.client.service;
 
 import java.math.BigDecimal;
 import java.util.Collection;

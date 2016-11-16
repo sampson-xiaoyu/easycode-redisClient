@@ -1,4 +1,4 @@
-package com.albot.kkh.redis.client;
+package com.easycode.redis.client;
 
 /**
  * Hello world!
