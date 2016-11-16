@@ -1,4 +1,4 @@
-package com.albot.kkh.redis.client.service.impl;
+package com.easycode.redis.client.service.impl;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -11,8 +11,8 @@ import java.util.concurrent.TimeUnit;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ZSetOperations.TypedTuple;
 
-import com.albot.kkh.redis.client.service.RedisService;
 import com.easycode.commons.StringUtils;
+import com.easycode.redis.client.service.RedisService;
 
 public class RedisServiceImpl implements RedisService {
 

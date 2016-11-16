@@ -1,4 +1,4 @@
-package com.albot.kkh.redis.client.service;
+package com.easycode.redis.client.service;
 
 import java.util.Collection;
 import java.util.List;

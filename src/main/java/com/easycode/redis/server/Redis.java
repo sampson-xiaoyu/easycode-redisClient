@@ -1,4 +1,4 @@
-package com.albot.kkh.redis.server;
+package com.easycode.redis.server;
 
 import java.util.ArrayList;
 import java.util.Collection;
